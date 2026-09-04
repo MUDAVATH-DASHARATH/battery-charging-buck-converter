@@ -77,7 +77,3 @@ The system performance is evaluated using:
 - Temperature-based charging control
 - Improved converter efficiency
 - Solar-powered battery charging
-
-## Author
-
-**Sridhatri Gunupuru**
